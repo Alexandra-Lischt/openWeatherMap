@@ -12,4 +12,4 @@ Then you can run:
 
 ## URL
 
-    localhost:4000
+    localhost:3000

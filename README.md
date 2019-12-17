@@ -2,8 +2,6 @@
 
 Using External Api
 
-# GraphQL_MongoDB
-
 ## Install
 
     yarn

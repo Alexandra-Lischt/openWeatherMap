@@ -1,4 +1,4 @@
-# OpenWeatherMap
+# openWeatherMap
 
 Using External Api
 
